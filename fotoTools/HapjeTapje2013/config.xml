@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="2048"
+	useSmallImages="800"
+	galleryTitle="Hapje Tapje 2013"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/hapjeTapjeBuitenStand.jpg"
+	thumbURL="thumbs/hapjeTapjeBuitenStand.jpg"
+	linkURL="images/hapjeTapjeBuitenStand.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\hapjeTapjeBuitenStand.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Buitenstand]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeBuitenStand2.jpg"
+	thumbURL="thumbs/HapjeTapjeBuitenStand2.jpg"
+	linkURL="images/HapjeTapjeBuitenStand2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeBuitenStand2.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Buitenstand]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeDelirium.jpg"
+	thumbURL="thumbs/HapjeTapjeDelirium.jpg"
+	linkURL="images/HapjeTapjeDelirium.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeDelirium.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Delirium]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeDeliriumSTand.jpg"
+	thumbURL="thumbs/HapjeTapjeDeliriumSTand.jpg"
+	linkURL="images/HapjeTapjeDeliriumSTand.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeDeliriumSTand.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Delirium Stand]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeKenjiTapper.jpg"
+	thumbURL="thumbs/HapjeTapjeKenjiTapper.jpg"
+	linkURL="images/HapjeTapjeKenjiTapper.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeKenjiTapper.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Kenneth]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMatti.jpg"
+	thumbURL="thumbs/HapjeTapjeMatti.jpg"
+	linkURL="images/HapjeTapjeMatti.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMatti.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mattias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMattiSchenk.jpg"
+	thumbURL="thumbs/HapjeTapjeMattiSchenk.jpg"
+	linkURL="images/HapjeTapjeMattiSchenk.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMattiSchenk.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mattias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMensen1.jpg"
+	thumbURL="thumbs/HapjeTapjeMensen1.jpg"
+	linkURL="images/HapjeTapjeMensen1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMensen1.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mensen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMensen2.jpg"
+	thumbURL="thumbs/HapjeTapjeMensen2.jpg"
+	linkURL="images/HapjeTapjeMensen2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMensen2.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mensen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMensen3.jpg"
+	thumbURL="thumbs/HapjeTapjeMensen3.jpg"
+	linkURL="images/HapjeTapjeMensen3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMensen3.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mensen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeMensen4.jpg"
+	thumbURL="thumbs/HapjeTapjeMensen4.jpg"
+	linkURL="images/HapjeTapjeMensen4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeMensen4.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mensen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeTap.jpg"
+	thumbURL="thumbs/HapjeTapjeTap.jpg"
+	linkURL="images/HapjeTapjeTap.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeTap.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Mensen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeTerras.jpg"
+	thumbURL="thumbs/HapjeTapjeTerras.jpg"
+	linkURL="images/HapjeTapjeTerras.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeTerras.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Kenneth]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeTon.jpg"
+	thumbURL="thumbs/HapjeTapjeTon.jpg"
+	linkURL="images/HapjeTapjeTon.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeTon.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Ton]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeBord.jpg"
+	thumbURL="thumbs/HapjeTapjeBord.jpg"
+	linkURL="images/HapjeTapjeBord.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeBord.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Bord]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HapjeTapjeBowl.jpg"
+	thumbURL="thumbs/HapjeTapjeBowl.jpg"
+	linkURL="images/HapjeTapjeBowl.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\HapjeTapje2013\HapjeTapjeBowl.jpg">
+    <title><![CDATA[Hapje Tapje 2013 Kom]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

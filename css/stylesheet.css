@@ -1,0 +1,288 @@
+/* Header
+-------------------------------------------------- */
+nav {
+    border: solid black 1px !important;
+}
+.navbar>.container-fluid {
+    background:
+        linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+        linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+        linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+        linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+        linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+        linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+
+.container-fluid .row .navbar-header .navbar-brand{
+    border:thin #CCC solid;
+}
+.container-fluid .row .navbar-header .navbar-brand img{
+    position: absolute;
+    z-index: 800;
+    left: 0px;
+    top: 0px;
+    width: 80px;
+    height: auto;
+    background-color: white;
+
+}
+.container-fluid .row .navbar-header .navbar-brand img:hover,
+.container-fluid .row .navbar-header .navbar-brand img:focus{
+    background-color:white;
+    border: thin #003910 solid;
+}
+
+header>.navbar>.container-fluid,
+.navbar>.container-fluid>.row>.collapse>.nav,
+.navbar>.container-fluid>.row>.collapse>.nav>li{
+    min-height:70px;
+}
+
+.navbar>.container-fluid>.row>.collapse>.nav>li{
+    padding-bottom:0;
+}
+
+.navbar>.container-fluid>.row>.collapse>.nav>li>a{
+    font: 28px capture_itregular;
+    color:white;
+    padding: 23px 15px;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+    text-decoration: none;
+    background-color: rgba(94,173,113,1.00);
+}
+.navbar>.container-fluid>.row>.collapse>.nav>li.active>a,
+.navbar>.container-fluid>.row>.collapse>.nav>li.active>a:hover,
+.navbar>.container-fluid>.row>.collapse>.nav>li.active>a:focus {
+    color: #ccc;
+    background-color: #B29600;
+}
+
+.navbar-inner {
+    position: relative;
+    padding-left: 70px;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {                
+    position: absolute;
+    z-index: 800;
+    left: 0px;
+    top: 0px;
+    width: 80px;
+    height: auto;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+
+/* -------------------------------------------------
+End Header*/
+
+
+/*content
+-------------------------------------------------- */
+.first.container-fluid{
+    padding-top: 130px;
+}
+/*---- General content ----*/
+.panel>.panel-heading>.panel-title{
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:1.4em;
+}
+
+.panel{
+    font-size:1.3em;
+}
+/*----   About  ----*/
+#about-info{
+    padding: 20px;
+    width: 40%;
+    margin-left: 1%;
+    margin-top: 10%;
+    background-color: rgba(255,255,255,.8);
+}
+/*----   Bieren   ----*/
+
+/*---- Gastenbook ----*/
+#posts{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 320px;
+}
+
+
+#new-post{
+    margin-top: 30px;
+}
+/*---- Contact ----*/
+#gmap_canvas{
+    min-height: 200px;
+}
+
+#contactForm label, #contactForm input , #contactForm textarea {
+    display: block;
+}
+
+#contactForm input, #contactForm textarea{
+    width: 100%;
+}
+
+#contactForm .submit-button {
+    float: right;
+    width: 40%;
+}
+
+#contactForm textarea {
+    margin-bottom: 5px;
+}
+
+/*---- carousel ----*/
+.carousel-caption{
+    background-color:rgba(223,223,223,0.30);
+}
+
+
+/* Admin pages stuff
+------------------------------------------------- */
+/*--switch--*/
+.availableS, .notAvailableS {
+    color: #fff;
+}
+
+.availableS{
+    background-color: #419641;
+}
+.notAvailableS{
+    background-color: #b92c28;
+}
+/*---forms---*/
+.form-holder{
+    background-color: white;
+    border: #ccc solid 1px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html{
+    position: relative;
+    min-height: 100%;
+}
+body {
+    font-family: 'lato', sans-serif;    
+    margin-bottom: 50px;
+    background:url('../images/bg.jpg') center no-repeat;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+
+}
+
+/*-- footer styles ---*/
+footer{
+    background:
+        linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+        linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+        linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+        linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+        linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+        linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+
+/*--footer icon bar--- */
+footer .icon-holder{
+    text-align:center;
+}
+
+footer .icon-holder .icon-holder-col a i{
+    border: 5px solid transparent;
+    padding: 6px;
+
+}
+
+footer .icon-holder .icon-holder-col a i:hover{
+    padding: 6px;
+    border: 5px #fff solid;
+    border-radius: 50%;
+}
+footer .icon-holder .icon-holder-col address{
+    text-align:left;
+    margin-bottom: 0;
+}
+
+footer .icon-holder .icon-holder-col:first-child{
+    text-align: right;
+}
+
+footer a:link, footer a:visited{
+    color:white;
+    text-decoration:none;
+}
+
+/*---------- media querries -----------*/
+
+@media all and (max-width: 1000px) and (min-width: 768px){
+
+    .navbar>.container-fluid>.row>.collapse>.nav>li>a{
+        font-size: 20px;
+    }
+
+    .container-fluid .row .navbar-header .navbar-brand,
+    .container-fluid .row .navbar-header .navbar-brand img{
+        width: 60px;
+    }
+
+    .first.container-fluid {
+        padding-top:100px;
+    }
+}
+
+@media all and (max-width: 768px) {
+
+    header>.navbar>.container-fluid,
+    .navbar>.container-fluid>.row>.collapse>.nav{
+        min-height: 50px;
+    }
+
+    .navbar>.container-fluid>.row>.collapse>.nav>li,
+    .navbar>.container-fluid>.row>.collapse>.nav>li>a{
+        padding: 2px 15px;
+        min-height: 1px;
+    }
+    .container-fluid .row .navbar-header .navbar-brand{
+        border: none;
+    }
+    .container-fluid .row .navbar-header .navbar-brand img{
+        width: auto;
+        height: 55px;
+    }
+    .container-fluid .row .navbar-header .navbar-brand:after{
+        content: "FARAO";
+        color: white;
+        font-size: 20px;
+        padding-left: 200%;
+        width: 10px;
+    }
+
+    .first.container-fluid {
+        padding-top:80px;
+    }
+
+    footer{
+        font-size: 0.7em;
+    }
+}

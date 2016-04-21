@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="2048"
+	useSmallImages="800"
+	galleryTitle="Sfeer Foto's"
+	indexPageName="sfeerFotos.html"
+
+>
+  <image imageURL="images/barFull1.jpg"
+	thumbURL="thumbs/barFull1.jpg"
+	linkURL="images/barFull1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\barFull1.jpg">
+    <title><![CDATA[De Toog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bingos1.jpg"
+	thumbURL="thumbs/bingos1.jpg"
+	linkURL="images/bingos1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\bingos1.jpg">
+    <title><![CDATA[De Gang]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/faraoFull2.jpg"
+	thumbURL="thumbs/faraoFull2.jpg"
+	linkURL="images/faraoFull2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\faraoFull2.jpg">
+    <title><![CDATA[De Voorgevel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/faraoOhl.jpg"
+	thumbURL="thumbs/faraoOhl.jpg"
+	linkURL="images/faraoOhl.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\faraoOhl.jpg">
+    <title><![CDATA[De mascotte]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/frontFull1.jpg"
+	thumbURL="thumbs/frontFull1.jpg"
+	linkURL="images/frontFull1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\frontFull1.jpg">
+    <title><![CDATA[Het klein terras]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kikker1.jpg"
+	thumbURL="thumbs/kikker1.jpg"
+	linkURL="images/kikker1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\kikker1.jpg">
+    <title><![CDATA[De Kikkertafel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kikker2.jpg"
+	thumbURL="thumbs/kikker2.jpg"
+	linkURL="images/kikker2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\kikker2.jpg">
+    <title><![CDATA[De Kikkertafel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/wall1.jpg"
+	thumbURL="thumbs/wall1.jpg"
+	linkURL="images/wall1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\wall1.jpg">
+    <title><![CDATA[De Muur]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/wall2.jpg"
+	thumbURL="thumbs/wall2.jpg"
+	linkURL="images/wall2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\wall2.jpg">
+    <title><![CDATA[De Muur]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/wallAndFarao.jpg"
+	thumbURL="thumbs/wallAndFarao.jpg"
+	linkURL="images/wallAndFarao.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\wallAndFarao.jpg">
+    <title><![CDATA[De Muur]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/wallFull1.jpg"
+	thumbURL="thumbs/wallFull1.jpg"
+	linkURL="images/wallFull1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\wallFull1.jpg">
+    <title><![CDATA[De Muur]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bar1.jpg"
+	thumbURL="thumbs/bar1.jpg"
+	linkURL="images/bar1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\bar1.jpg">
+    <title><![CDATA[De Toog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bar2.jpg"
+	thumbURL="thumbs/bar2.jpg"
+	linkURL="images/bar2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\bar2.jpg">
+    <title><![CDATA[De Toog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bar3.jpg"
+	thumbURL="thumbs/bar3.jpg"
+	linkURL="images/bar3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jens\Documents\The Royal Docs\KHLeuven\1stejaars vakken\webdesign\Café Farao\images\foto's\sfeerFotos\bar3.jpg">
+    <title><![CDATA[De Toog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
